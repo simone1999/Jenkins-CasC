@@ -1,6 +1,67 @@
 plugins:
   required:
+    ant: latest
+    authentication-tokens: latest
     blueocean: latest
-    Blue-Ocean: latest
-    Blue+Ocean+Plugin: latest
-    Blue-Ocean-Plugin: latest
+    awseb-deployment-plugin: latest
+    backup: latest
+    badge: latest
+    branch-api: latest
+    config-file-provider: latest
+    cloudbees-bitbucket-branch-source: latest
+    chromedriver: latest
+    credentials: latest
+    aws-credentials: latest
+    cobertura: latest
+    aws-java-sdk: latest
+    code-coverage-api: latest
+    cvs
+    docker-workflow
+    docker-commons
+    email-ext
+    envinject
+    envinject-api
+    extensible-choice-parameter
+    git
+    git-server
+    git-client
+    github
+    greenballs
+    groovy
+    http_request
+    icon-shim
+    javadoc
+    junit
+    jira
+    jquery
+    jquery-ui
+    ldap
+    maven-plugin
+    mapdb-api
+    mask-passwords
+    mailer
+    m2release
+    mercurial
+    nodejs
+    dependency-check-jenkins-plugin
+    dependency-track
+    pam-auth
+    plain-credentials
+    workflow-api
+    workflow-aggregator
+    lockable-resources
+    htmlpublisher
+    pipeline-utility-steps
+    pipeline-github-lib
+    workflow-multibranch
+    publish-over-ftp
+    publish-over-ssh
+    release
+    saferestart
+    matrix-auth
+    matrix-project
+    cloudbees-folder
+    sonar
+    ssh-agent
+    thinBackup
+    translation
