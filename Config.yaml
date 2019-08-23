@@ -15,53 +15,53 @@ plugins:
     cobertura: latest
     aws-java-sdk: latest
     code-coverage-api: latest
-    cvs
-    docker-workflow
-    docker-commons
-    email-ext
-    envinject
-    envinject-api
-    extensible-choice-parameter
-    git
-    git-server
-    git-client
-    github
-    greenballs
-    groovy
-    http_request
-    icon-shim
-    javadoc
-    junit
-    jira
-    jquery
-    jquery-ui
-    ldap
-    maven-plugin
-    mapdb-api
-    mask-passwords
-    mailer
-    m2release
-    mercurial
-    nodejs
-    dependency-check-jenkins-plugin
-    dependency-track
-    pam-auth
-    plain-credentials
-    workflow-api
-    workflow-aggregator
-    lockable-resources
-    htmlpublisher
-    pipeline-utility-steps
-    pipeline-github-lib
-    workflow-multibranch
-    publish-over-ftp
-    publish-over-ssh
-    release
-    saferestart
-    matrix-auth
-    matrix-project
-    cloudbees-folder
-    sonar
-    ssh-agent
-    thinBackup
-    translation
+    cvs: latest
+    docker-workflow: latest
+    docker-commons: latest
+    email-ext: latest
+    envinject: latest
+    envinject-api: latest
+    extensible-choice-parameter: latest
+    git: latest
+    git-server: latest
+    git-client: latest
+    github: latest
+    greenballs: latest
+    groovy: latest
+    http_request: latest
+    icon-shim: latest
+    javadoc: latest
+    junit: latest
+    jira: latest
+    jquery: latest
+    jquery-ui: latest
+    ldap: latest
+    maven-plugin: latest
+    mapdb-api: latest
+    mask-passwords: latest
+    mailer: latest
+    m2release: latest
+    mercurial: latest
+    nodejs: latest
+    dependency-check-jenkins-plugin: latest
+    dependency-track: latest
+    pam-auth: latest
+    plain-credentials: latest
+    workflow-api: latest
+    workflow-aggregator: latest
+    lockable-resources: latest
+    htmlpublisher: latest
+    pipeline-utility-steps: latest
+    pipeline-github-lib: latest
+    workflow-multibranch: latest
+    publish-over-ftp: latest
+    publish-over-ssh: latest
+    release: latest
+    saferestart: latest
+    matrix-auth: latest
+    matrix-project: latest
+    cloudbees-folder: latest
+    sonar: latest
+    ssh-agent: latest
+    thinBackup: latest
+    translation: latest
