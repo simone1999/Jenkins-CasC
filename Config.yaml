@@ -1,8 +1,8 @@
 plugins:
   required:
     blueocean: latest
-    Blue Ocean:latest
-    Blue-Ocean:latest
-    Blue+Ocean+Plugin:latest
-    Blue Ocean Plugin:latest
-    Blue-Ocean-Plugin:latest
+    Blue Ocean: latest
+    Blue-Ocean: latest
+    Blue+Ocean+Plugin: latest
+    Blue Ocean Plugin: latest
+    Blue-Ocean-Plugin: latest
